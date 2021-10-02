@@ -9,6 +9,8 @@ cmake-build-*/
 out/
 target/
 
+upload_files
+
 # *.iml
 # modules.xml
 # .idea/misc.xml
